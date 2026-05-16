@@ -77,3 +77,5 @@ See `.env.example` for all required variables.
 
 <img width="2548" height="1019" alt="image" src="https://github.com/user-attachments/assets/c080c506-6b78-41ee-ad79-7ac5fe2a6c44" />
 
+---
+
