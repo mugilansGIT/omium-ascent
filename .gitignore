@@ -1,0 +1,35 @@
+# Environment files
+.env
+.env.local
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Node modules
+node_modules/
+
+# Build files
+.next/
+dist/
+build/
+
+# Zip files
+*.zip
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Scratch / temp
+scratch/
