@@ -49,9 +49,4 @@ Orchestrator
 
 See `.env.example` for all required variables.
 
-## Deploy to Render
 
-1. Push to GitHub
-2. Connect repo in [render.com](https://render.com)
-3. Set env vars in Render dashboard
-4. Deploy — health check at `/health`
